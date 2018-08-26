@@ -1,2 +1,2 @@
-# MapHive.ExtJs.Theme
-basic theme for maphive
+# mh-theme - Read Me
+
